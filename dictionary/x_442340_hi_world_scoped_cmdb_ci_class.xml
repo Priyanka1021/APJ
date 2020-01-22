@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Scoped CMDB CI Class" max_length="40" name="x_442340_hi_world_scoped_cmdb_ci_class" type="collection"/>
+</database>

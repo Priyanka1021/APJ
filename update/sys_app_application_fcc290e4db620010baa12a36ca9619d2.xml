@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Tablet</name>
+        <order>100</order>
+        <roles>x_442340_hi_world.tablet_class_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 08:14:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fcc290e4db620010baa12a36ca9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tablet</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hi World" source="x_442340_hi_world">9bf8c8ecdb220010baa12a36ca961917</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hi World">9bf8c8ecdb220010baa12a36ca961917</sys_scope>
+        <sys_update_name>sys_app_application_fcc290e4db620010baa12a36ca9619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 08:14:22</sys_updated_on>
+        <title>Tablet</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0bd3f42cdba20010baa12a36ca9619a5" sys_domain="global" table="x_442340_hi_world_anroid_tablet_class" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 10:38:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fd3782cdba20010baa12a36ca961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_442340_hi_world_anroid_tablet_class" name="x_442340_hi_world_anroid_tablet_class" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">0bd3f42cdba20010baa12a36ca9619a5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_442340_hi_world_anroid_tablet_class" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">4fd3782cdba20010baa12a36ca961982</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 10:38:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 10:38:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bd3782cdba20010baa12a36ca961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_442340_hi_world_anroid_tablet_class" name="x_442340_hi_world_anroid_tablet_class" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">0bd3f42cdba20010baa12a36ca9619a5</sys_ui_form>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_442340_hi_world_anroid_tablet_class" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">83d3f42cdba20010baa12a36ca9619a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 10:38:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_442340_hi_world_anroid_tablet_class</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 10:38:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bd3f42cdba20010baa12a36ca9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_442340_hi_world_anroid_tablet_class</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hi World" source="x_442340_hi_world">9bf8c8ecdb220010baa12a36ca961917</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hi World">9bf8c8ecdb220010baa12a36ca961917</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0bd3f42cdba20010baa12a36ca9619a5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 10:38:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Compliance" name="certification">d62ead22df100100cd7da5f59bf26356</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

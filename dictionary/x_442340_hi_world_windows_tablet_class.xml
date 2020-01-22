@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_442340_hi_world_tablet_class" label="Windows Tablet class" max_length="40" name="x_442340_hi_world_windows_tablet_class" sizeclass="1" type="collection"/>
+</database>
